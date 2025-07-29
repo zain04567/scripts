@@ -8,8 +8,8 @@ import subprocess
 job = 'reqesut_adnare'
 
 def send_email(subject, body, recipients):
-    email_sender = 'zain0456@hotmail.com'
-    email_password = 'Adnare3035021180'
+    email_sender = 'email'
+    email_password = 'pass'
 
     em = EmailMessage()
     em['From'] = email_sender
