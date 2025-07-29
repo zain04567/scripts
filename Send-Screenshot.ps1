@@ -1,8 +1,8 @@
 # --- Configuration ---
 $smtpServer = "smtp.gmail.com"
 $smtpPort = 465
-$emailSender = "zain@adnare.com"
-$emailPassword = "bufuywiwoskyhcla"
+$emailSender = "email"
+$emailPassword = "pass"
 $emailReceiver = "zain.ul.abideen1565@gmail.com"
 
 # --- Timestamp and Paths ---
